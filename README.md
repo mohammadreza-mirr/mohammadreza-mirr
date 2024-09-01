@@ -1,18 +1,19 @@
 ![Control Theory, Autonomous Systems  ](https://media.licdn.com/dms/image/v2/D4D16AQFp56IQfq8tqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725212343191?e=1730937600&v=beta&t=Y3L8CkogKcodWV4sR5_Z07v5ykNLbyfw3NlFkniNslU)
 
-### Hi there, I am Mohammadreza Mir
+# Mohammadreza Mir
  
 I have a master's degree in Electrical and Control Engineering. My research focuses on implementing data-driven control and reinforcement learning algorithms using AI. It is dedicated to enhancing the safety and reliability of autonomous systems. 
-My research areas include: 
-- Reinforcement Learning
-- Data-Driven Control (DDC)
-- Autonomous Systems
-- Multi-Agent Systems
-- Control Theory
-- Game Theory
-- Robotics
+## Research Interests 
+* Reinforcement Learning
+* Data-Driven Control (DDC)
+* Autonomous Systems
+* Multi-Agent Systems
+* Control Theory
+* Game Theory
+* Robotics
 
-Skills: MATLAB / Python / C++ / Machine Learning / Optimization / AVR
+### Skills
+MATLAB / Python / C++ / Machine Learning / Optimization / AVR
 
 - 📫 How to reach me: mohammadreza.mir.mrm@gmail.com 
 - ⚡ Fun fact: I enjoy reading, biking, swimming, and spending time with friends in my free time.  
