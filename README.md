@@ -1,7 +1,8 @@
-### Hi there 👋, my name is Mohammadreza Mir
-#### Control Theory, Autonomous Systems  
+
 ![Control Theory, Autonomous Systems  ](https://media.licdn.com/dms/image/v2/D4D16AQFp56IQfq8tqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725212343191?e=1730937600&v=beta&t=Y3L8CkogKcodWV4sR5_Z07v5ykNLbyfw3NlFkniNslU)
 
+### Hi there 👋, my name is Mohammadreza Mir
+#### Control Theory, Autonomous Systems  
 I have a master's degree in Electrical and Control Engineering. My research focuses on implementing data-driven control and reinforcement learning algorithms using AI. It is dedicated to enhancing the safety and reliability of autonomous systems. 
 My research areas include: 
 - Reinforcement Learning
