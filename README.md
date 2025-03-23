@@ -2,17 +2,13 @@
 
 # Mohammadreza Mir
  
-I have a master's degree in Electrical and Control Engineering. My research focuses on implementing data-driven control and reinforcement learning algorithms using AI. It is dedicated to enhancing the safety and reliability of autonomous systems. 
+I have a master's degree in Electrical and Control Engineering. My research focuses on implementing data-driven control and optimization algorithms. 
 ## Research Interests 
-* Reinforcement Learning
 * Data-Driven Control (DDC)
-* Autonomous Systems
-* Multi-Agent Systems
 * Control Theory
-* Game Theory
-* Robotics
+* Optimization
 ## Skills
-MATLAB / Python / C++ / Machine Learning / Optimization / AVR
+MATLAB / Python / C++ / Machine Learning / Optimization / 
 ### ⚡ Leisure
 I enjoy reading, biking, swimming, and spending time with friends in my free time.  
 
