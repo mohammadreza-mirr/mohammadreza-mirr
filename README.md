@@ -1,4 +1,4 @@
-![Control Theory, Autonomous Systems  ](https://media.licdn.com/dms/image/v2/D4D16AQFp56IQfq8tqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725212343191?e=1730937600&v=beta&t=Y3L8CkogKcodWV4sR5_Z07v5ykNLbyfw3NlFkniNslU)
+![Control Theory, Optimization  ](https://media.licdn.com/dms/image/v2/D4D16AQFp56IQfq8tqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725212343191?e=1730937600&v=beta&t=Y3L8CkogKcodWV4sR5_Z07v5ykNLbyfw3NlFkniNslU)
 
 # Mohammadreza Mir
  
