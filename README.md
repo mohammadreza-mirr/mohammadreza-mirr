@@ -7,6 +7,7 @@ I have a master's degree in Electrical and Control Engineering. My research focu
 * Data-Driven Control (DDC)
 * Control Theory
 * Optimization
+* Traffic Management
 ## Skills
 MATLAB / Python / C++ / Machine Learning / Optimization / 
 ### ⚡ Leisure
