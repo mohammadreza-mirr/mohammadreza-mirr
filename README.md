@@ -8,6 +8,7 @@ I have a master's degree in Electrical and Control Engineering. My research focu
 * Control Theory
 * Optimization
 * Traffic Management
+* Driver-less Cars
 ## Skills
 MATLAB / Python / C++ / Machine Learning / Optimization / 
 ### ⚡ Leisure
