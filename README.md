@@ -2,7 +2,7 @@
 
 # Mohammadreza Mir
  
-I have a master's degree in Electrical and Control Engineering. My research focuses on implementing data-driven control and optimization algorithms. 
+I have a master's degree in Electrical and Control Engineering. My research focuses on implementing data-driven methods for enhancinng the performance of driver-less cars. 
 ## Research Interests 
 * Data-Driven Control (DDC)
 * Control Theory
